@@ -1,0 +1,1 @@
+ package dailycode;public class AsciiValue {    public static void main(String[] args) {        char ch = 'A';        System.out.println("ASCII of " + ch + " is " + (int)ch);    }}
